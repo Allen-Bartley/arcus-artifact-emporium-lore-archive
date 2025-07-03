@@ -1,5 +1,9 @@
 # arcus-artifact-emporium-lore-archive
 
+<div align="center">
+  <img src="assets/arcus_myr_crest.png" alt="Arcus' Myr Crest" />
+</div>
+
 [Arcus' Myr Crest](assets/Arcus' Myr Crest.png)
 
 # 🧪 Arcus' Artifact Emporium Lore Archive
