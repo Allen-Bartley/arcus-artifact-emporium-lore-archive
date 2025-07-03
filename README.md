@@ -4,8 +4,6 @@
   <img src="assets/arcus_myr_crest.png" alt="Arcus' Myr Crest" />
 </div>
 
-[Arcus' Myr Crest](assets/Arcus' Myr Crest.png)
-
 # 🧪 Arcus' Artifact Emporium Lore Archive
 
 Welcome to the multiversal vault of *Arcus Acer* — Myr Mage, artificer extraordinaire, and quiet steward of planar mysteries.
