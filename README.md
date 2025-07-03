@@ -1,6 +1,6 @@
 # arcus-artifact-emporium-lore-archive
 
-![Arcus' Myr Crest](assets/Arcus' Myr Crest.png)
+[Arcus' Myr Crest](assets/Arcus' Myr Crest.png)
 
 # 🧪 Arcus' Artifact Emporium Lore Archive
 
