@@ -1,12 +1,11 @@
 # arcus-artifact-emporium-lore-archive
 
+⚙️ This project showcases legacy data recovery and format migration using virtualized Windows environments—applied creatively to preserve early-2000s internet lore.
 <div align="center">
   <img src="assets/arcus_myr_crest.png" alt="Arcus' Myr Crest" />
 </div>
 
 # 🧪 Arcus' Artifact Emporium Lore Archive
-
-⚙️ This project showcases legacy data recovery and format migration using virtualized Windows environments—applied creatively to preserve early-2000s internet lore.
 
 Welcome to the multiversal vault of *Arcus Acer* — Myr Mage, artificer extraordinaire, and quiet steward of planar mysteries.
 
