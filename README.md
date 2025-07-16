@@ -6,6 +6,8 @@
 
 # 🧪 Arcus' Artifact Emporium Lore Archive
 
+⚙️ This project showcases legacy data recovery and format migration using virtualized Windows environments—applied creatively to preserve early-2000s internet lore.
+
 Welcome to the multiversal vault of *Arcus Acer* — Myr Mage, artificer extraordinaire, and quiet steward of planar mysteries.
 
 This GitHub repository serves as a digital restoration project for the long-lost worldbuilding and RPG history surrounding the **Academy of Magic** universe. Originating in 2005 from a fanfiction crossover (*Magic: The Gathering vs. Yu-Gi-Oh!*), the setting expanded through forums, Scratchpad Wiki pages, and collaborative roleplay threads — many of which now exist only in personal archives.
