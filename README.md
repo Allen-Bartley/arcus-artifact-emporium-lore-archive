@@ -1,6 +1,7 @@
 # arcus-artifact-emporium-lore-archive
 
-⚙️ This project showcases legacy data recovery and format migration using virtualized Windows environments—applied creatively to preserve early-2000s internet lore.
+⚙️ This project showcases legacy data recovery and format migration via a virtualized Windows 7 environment—applied creatively to preserve early-2000s internet lore.
+
 <div align="center">
   <img src="assets/arcus_myr_crest.png" alt="Arcus' Myr Crest" />
 </div>
